@@ -12,5 +12,5 @@ Understanding Forest Fires through Data.
 - [Australia Fires from Space](https://www.kaggle.com/carlosparadis/fires-from-space-australia-and-new-zeland)
 
 #### Potential Datasets that can be used in co-relation
-- [Wind Speeds Dataset (AUS)] (https://data.gov.au/dataset/ds-sa-68ce0023-5542-425c-a35a-870854781259/details)
+- [Wind Speeds Dataset (AUS)](https://data.gov.au/dataset/ds-sa-68ce0023-5542-425c-a35a-870854781259/details)
 - [Australia Weather](http://www.bom.gov.au/climate/data/)
