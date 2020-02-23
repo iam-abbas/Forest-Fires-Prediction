@@ -1,7 +1,7 @@
 # Forest-Fires-Prediction
 ##### Understanding Forest Fires through Data.
 
-### Datasets
+## Datasets
 
 #### Direct Datatsets
 - [Forest Fires in Brazil (Amazon Rain Forest)](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)
