@@ -1,5 +1,5 @@
 # Forest-Fires-Prediction
-Understanding Forest Fires through Data.
+##### Understanding Forest Fires through Data.
 
 ### Datasets
 
