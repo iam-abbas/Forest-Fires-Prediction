@@ -1,6 +1,21 @@
 # Forest-Fires-Prediction
 ##### Understanding Forest Fires through Data.
 
+## Few Guidelines
+
+* Make sure to ***document*** code.
+* Good on point commit message is highly appreciated.
+* Always ***Push*** even a small piece of code before you move on to the next one. 
+* Always update the ***board*** whatever the current stage issue is in. 
+
+#### Feel free to add more guidelines as and when required.
+
+## Quick progress checker
+
+- [ ] Australia
+- [ ] California
+- [ ] Brazil 
+
 ## Datasets
 
 #### Direct Datatsets
