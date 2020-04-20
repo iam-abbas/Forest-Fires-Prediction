@@ -29,3 +29,10 @@
 #### Potential Datasets that can be used in co-relation
 - [Wind Speeds Dataset (AUS)](https://data.gov.au/dataset/ds-sa-68ce0023-5542-425c-a35a-870854781259/details)
 - [Australia Weather](http://www.bom.gov.au/climate/data/)
+
+
+## Objectives
+
+- To find a cause for forest fires/ wild fires
+- What factors can affect for causing a forest fire
+- To find among all the factors which one affects the most
